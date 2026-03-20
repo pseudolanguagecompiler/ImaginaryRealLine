@@ -7,6 +7,7 @@ This project explores the idea that most real numbers, especially most irrationa
 
 The above Venn diagram of visible reals, imaginary reals, and pure imaginary numbers suggests a single gradient of ‘imaginariness’ from definable numbers in \mathbb{R}, through undefinable irrationals, up to the purely imaginary i that can be viewed conceptually as a unified categorical picture, even if it’s not a standard theorem.
 
+
 ## Idea
 
 - The **visible real line** \(\mathbb{R}_\text{vis}\) consists of definable reals: rationals, algebraic numbers, and computable numbers like \(\pi\) and \(e\).  
@@ -49,3 +50,7 @@ This construction is not a conventional algebraic or analytic object; it lives i
 
 > The **imaginary real line** is the part of \(\mathbb{R}\) where most irrationals live, but they are “imaginary” in the sense that we can’t distinguish them by definition.  
 > It is the dark, undefinable background of the real line against which the visible, definable reals are projected.
+
+## Theorems
+
+Proposition: The set of definable real numbers is countable. Cantor's diagonal argument produces undefinable reals outside this set, resolving the paradox in a constructive framework where ℝ_vis ≈ ℕ.
