@@ -53,4 +53,5 @@ This construction is not a conventional algebraic or analytic object; it lives i
 
 ## Theorems
 
-Proposition: The set of definable real numbers is countable. Cantor's diagonal argument produces undefinable reals outside this set, resolving the paradox in a constructive framework where ℝ_vis ≈ ℕ.
+Proposition: The set of definable real numbers is countable. Cantor's diagonal argument produces undefinable reals outside this set, resolving the paradox in a constructive framework where ℝ_vis ≈ ℕ. 
+
