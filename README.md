@@ -5,8 +5,7 @@ This project explores the idea that most real numbers, especially most irrationa
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/61088f61-7ee3-441d-9724-fbecbee6b305" />
 
-The above Venn diagram of visible reals, imaginary reals, and pure imaginary numbers suggests a single gradient of ‘imaginariness’ from definable numbers in \mathbb{R}, through undefinable irrationals, up to the purely imaginary i that can be viewed conceptually as a unified categorical picture, even if it’s not a standard theorem.
-
+The undefinable reals ℝ_img (countable complement of definable ℝ_vis) reveal that classical ℝ's uncountability depends on dark or imaginary reals we cannot access. Constructive mathematics discards ℝ_img, yielding countable ℝ_vis ≈ ℕ without hierarchy. 
 
 ## Idea
 
