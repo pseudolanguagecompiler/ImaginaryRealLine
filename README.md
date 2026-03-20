@@ -2,6 +2,9 @@
 
 This project explores the idea that most real numbers—especially most irrationals—are **undefinable and indistinguishable by finite descriptions**, so they form an “imaginary real line” inside \(\mathbb{R}\) itself.
 
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/61088f61-7ee3-441d-9724-fbecbee6b305" />
+
 ## Idea
 
 - The **visible real line** \(\mathbb{R}_\text{vis}\) consists of definable reals: rationals, algebraic numbers, and computable numbers like \(\pi\) and \(e\).  
